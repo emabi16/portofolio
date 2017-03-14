@@ -1,5 +1,5 @@
 ---
-image_path: /img/portfolio/1.png
+image_path: /img/portfolio/1.gpg
 category: Ionic Mobile
 project_name: EventCalendar
 link: https://blooming-retreat-94099.herokuapp.com/
