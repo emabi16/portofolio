@@ -1,6 +1,6 @@
 ---
 image_path: /img/portfolio/6.jpg
-category: Web Design
-project_name: Twitter
+category: Wordpress site
+project_name: Ciycol
 link: https://twitter.com
 ---
